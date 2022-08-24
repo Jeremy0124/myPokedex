@@ -31,7 +31,6 @@ class PokeAPI {
             DispatchQueue.main.async {
                 completion(pokemonList.results)
             }
-            
         }.resume()
     }
 }

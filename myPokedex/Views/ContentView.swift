@@ -24,7 +24,6 @@ struct ContentView: View {
                         NavigationLink("\(entry.name)".capitalized, destination: PokemonDetailPage(pokemon: entry)
                         )
                     }
-                    
                 }
             }
             .onAppear {

@@ -27,5 +27,3 @@ struct PokemonDetailPage_Previews: PreviewProvider {
     }
 }
 
-
-// (.init(name: "default name", url: "default url"))
